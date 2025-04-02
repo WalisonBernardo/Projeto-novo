@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Projeto novo é um passo na minha caminhada de desenvolvedor
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+- [Acesse o projeto finalizado, online](http://127.0.0.1:5500/index.html)
 
 
 
